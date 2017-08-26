@@ -1,19 +1,13 @@
 # mvc framework php
 
-Aprendiendo cakephp, codeigniter, laravel, symfony, yii2
+Aprendiendo cakephp, codeigniter, laravel, symfony, yii2, en cada curso se vera
 
-## Usar un servidor Web
+Rutas, Modelos, Controladores y Vistas
 
-* Laravel ->
-      php artisan serve
-* Symfony ->
-      php bin/console server:run
-* Yii2 ->
-      php yii serve
-* CodeIgniter ->
-      php -S localhost:8000
-* CakePHP ->
-      php bin/cake.php server
+## Desarrollador
+
+*  [Angel Céspedes Quiroz](https://bo.linkedin.com/in/acq1305)
+*  Correo:  <angel@nubeando.com>
 
 ## Avance:
 
@@ -26,3 +20,15 @@ Aprendiendo cakephp, codeigniter, laravel, symfony, yii2
 * Aprendiendo CodeIgniter MVC Framework [CodeIgniter](https://github.com/NubeAndoBo/curso-codeigniter)
 
 * Aprendiendo Laravel MVC Framework [Laravel](https://github.com/NubeAndoBo/curso-laravel)
+
+## NOTA:
+
+Los cursos estan en proceso de desarrollo, cuando se termine cada uno se pondra el estado terminado.
+
+|Comando|Curso|Estado|
+|--|--|--|
+|`php artisan serve`| curso Laravel | En proceso |
+|`php bin/console server:run`| curso Symfony | En proceso |
+|`php yii serve`| curso Yii2 | En proceso |
+|`php -S localhost:8000`|  curso CodeIgniter | En proceso |
+|`php bin/cake.php server`|  curso CakePHP | En proceso |
